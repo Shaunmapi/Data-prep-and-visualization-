@@ -2,6 +2,9 @@
 
 This Jupyter Notebook presents a practical data science workflow focused on the analysis and visualization of socioeconomic and employment-related data using Python. It demonstrates key data science concepts from data preparation to visual interpretation of results.
 
+
+Link to where i extracted my data ( https://www.kaggle.com/datasets/jainaru/adult-income-census-dataset )
+
 Key Processes Covered
 
 Loading and exploring the dataset using Pandas
